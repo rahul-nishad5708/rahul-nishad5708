@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rahul Chandraveer Nishad
+# 👨‍💻 Rahul Chandraveer Nishad ⚡ 
 
 ### Computer Science Undergraduate @ Parul University '27
 ### ServiceNow CSA & CAD Certified • Full Stack Developer • DSA Enthusiast
@@ -19,8 +19,6 @@ I enjoy building solutions at the intersection of software engineering, automati
 As a Computer Science student, I focus on understanding systems deeply, solving real-world problems, and continuously expanding my technical expertise through projects, certifications, and hands-on learning.
 
 ---
-
-## 🚀 About Me
 
 ## 🚀 About Me
 
